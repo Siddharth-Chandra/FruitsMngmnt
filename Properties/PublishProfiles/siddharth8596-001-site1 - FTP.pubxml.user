@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>False|2023-06-29T18:39:47.2815785Z;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>ftp://win5045.site4now.net:21/site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>06/25/2023 19:57:05</publishTime>
+    </File>
+    <File Include="creds.json">
+      <publishTime>06/29/2023 11:23:11</publishTime>
+    </File>
+    <File Include="FruitsManagementAPI.deps.json">
+      <publishTime>06/30/2023 00:03:58</publishTime>
+    </File>
+    <File Include="FruitsManagementAPI.dll">
+      <publishTime>06/30/2023 00:03:55</publishTime>
+    </File>
+    <File Include="FruitsManagementAPI.exe">
+      <publishTime>06/30/2023 00:03:56</publishTime>
+    </File>
+    <File Include="FruitsManagementAPI.runtimeconfig.json">
+      <publishTime>06/30/2023 00:03:59</publishTime>
+    </File>
+    <File Include="Google.Api.CommonProtos.dll">
+      <publishTime>12/01/2022 17:20:46</publishTime>
+    </File>
+    <File Include="Google.Api.Gax.dll">
+      <publishTime>01/30/2023 17:22:28</publishTime>
+    </File>
+    <File Include="Google.Api.Gax.Grpc.dll">
+      <publishTime>01/30/2023 17:22:40</publishTime>
+    </File>
+    <File Include="Google.Apis.Auth.dll">
+      <publishTime>12/01/2022 17:37:32</publishTime>
+    </File>
+    <File Include="Google.Apis.Auth.PlatformServices.dll">
+      <publishTime>12/01/2022 17:37:32</publishTime>
+    </File>
+    <File Include="Google.Apis.Core.dll">
+      <publishTime>12/01/2022 17:37:24</publishTime>
+    </File>
+    <File Include="Google.Apis.dll">
+      <publishTime>12/01/2022 17:37:28</publishTime>
+    </File>
+    <File Include="Google.Cloud.Firestore.dll">
+      <publishTime>05/03/2023 18:30:26</publishTime>
+    </File>
+    <File Include="Google.Cloud.Firestore.V1.dll">
+      <publishTime>05/03/2023 18:30:22</publishTime>
+    </File>
+    <File Include="Google.Cloud.Location.dll">
+      <publishTime>06/07/2022 16:16:26</publishTime>
+    </File>
+    <File Include="Google.LongRunning.dll">
+      <publishTime>06/07/2022 15:26:34</publishTime>
+    </File>
+    <File Include="Google.Protobuf.dll">
+      <publishTime>05/25/2022 22:35:08</publishTime>
+    </File>
+    <File Include="Grpc.Auth.dll">
+      <publishTime>01/02/2023 05:55:06</publishTime>
+    </File>
+    <File Include="Grpc.Core.Api.dll">
+      <publishTime>01/02/2023 05:55:10</publishTime>
+    </File>
+    <File Include="Grpc.Net.Client.dll">
+      <publishTime>01/02/2023 05:55:14</publishTime>
+    </File>
+    <File Include="Grpc.Net.Common.dll">
+      <publishTime>01/02/2023 05:55:24</publishTime>
+    </File>
+    <File Include="Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/23/2021 05:17:36</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/30/2020 01:44:12</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 12:39:54</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>10/16/2021 18:24:10</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>10/16/2021 18:24:36</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
